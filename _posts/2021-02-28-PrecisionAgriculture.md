@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Making Precision Agriculture the new standard
-subtitle:  “You can't manage what you can't measure.”
+subtitle:  There is always place for disruptive innovation, even in one of the most ancient human crafts
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
+“You can't manage what you can't measure.”
 
 ## Context
 
