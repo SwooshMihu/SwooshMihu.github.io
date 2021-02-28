@@ -14,7 +14,7 @@ author: Mihnea Stoica
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "https://SwooshMihu.github.io"
+  Blog: "index.html"
   About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
