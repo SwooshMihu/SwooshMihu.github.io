@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Mihnea Stoica Portfolio
+title: Mihnea's Portfolio
 
 # Your name to show in the footer
 author: Mihnea Stoica
@@ -40,14 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mihnea.stoica27@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: https://www.facebook.com/mihnea.stoica.37
+  github: https://github.com/SwooshMihu
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/mihnea-stoica-767162192/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
