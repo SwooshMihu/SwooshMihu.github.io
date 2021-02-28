@@ -4,12 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mihnea and I am a product designer passionate about prototyping, designing functional and reliable hardware systems and developing concepts into solutions by employing the adequate hardware and software tools. I love exploring ways in which such activities may be monetized and optimizing them for small scale production.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
