@@ -5,7 +5,7 @@ subtitle:  There is always place for disruptive innovation, even in one of the m
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [hardware development, disruptive innovation, design thinking]
 ---
 “You can't manage what you can't measure.”
 
